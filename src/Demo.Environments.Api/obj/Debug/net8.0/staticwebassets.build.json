@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "k5b7dJMNOEiF+zpp/thtuIB/gDXe5tyqKMy61eKPNwI=",
+  "Source": "Demo.Environments.Api",
+  "BasePath": "_content/Demo.Environments.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
