@@ -32,3 +32,5 @@ C:\Users\gralm\Desktop\CursoDeTitulacion\aspnet-environments-practice\src\Demo.E
 C:\Users\gralm\Desktop\CursoDeTitulacion\aspnet-environments-practice\src\Demo.Environments.Api\obj\Debug\net8.0\Demo.Environments.Api.pdb
 C:\Users\gralm\Desktop\CursoDeTitulacion\aspnet-environments-practice\src\Demo.Environments.Api\obj\Debug\net8.0\Demo.Environments.Api.genruntimeconfig.cache
 C:\Users\gralm\Desktop\CursoDeTitulacion\aspnet-environments-practice\src\Demo.Environments.Api\obj\Debug\net8.0\ref\Demo.Environments.Api.dll
+C:\Users\gralm\Desktop\CursoDeTitulacion\aspnet-environments-practice\src\Demo.Environments.Api\bin\Debug\net8.0\appsettings.Production.json
+C:\Users\gralm\Desktop\CursoDeTitulacion\aspnet-environments-practice\src\Demo.Environments.Api\bin\Debug\net8.0\appsettings.Staging.json
